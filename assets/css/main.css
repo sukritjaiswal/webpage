@@ -1180,6 +1180,8 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
+			width: 48px;
+			height: 48px;
 		}
 
 		ul.icons a {
