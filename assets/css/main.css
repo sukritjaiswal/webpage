@@ -1184,9 +1184,9 @@ input, select, textarea {
 
 		ul.icons a {
 			display: inline-block;
-			width: 5em;
-			height: 5em;
-			line-height: 2em;
+			width: 48px;
+			height: 48px;
+			line-height: 5em;
 			text-align: center;
 			border: 0;
 		}
