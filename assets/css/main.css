@@ -987,6 +987,15 @@ input, select, textarea {
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
+			max-width: 25%;
+    			max-height: 15%;
+		}
+
+		.image.right {
+			float: right;
+			margin: 0 2em 2em 0;
+			max-width: 25%;
+    			max-height: 15%;
 		}
 
 		.image.centered {
